@@ -14,3 +14,8 @@ h2 {
     color: 2F5A78;
     font-size: 20px;
 }
+
+body {
+    font-family:Arial;
+    font-weight:bold;
+}
