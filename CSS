@@ -19,3 +19,18 @@ body {
     font-family:Arial;
     font-weight:bold;
 }
+
+h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+}
+.summary {
+  font-size: 16px;
+  line-height: 20px;
+}
+header {
+  text-align: center;
+}
+#copyright {
+  text-align: center;
+}
