@@ -41,3 +41,10 @@ section, footer {
 ul {
   margin: 0px;
 }
+
+h2 {
+  color: #2F5A78;
+  font-size: 20px;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #2F5A78;
+} 
