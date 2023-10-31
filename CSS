@@ -48,3 +48,11 @@ h2 {
   padding-bottom: 2px;
   border-bottom: 1px solid #2F5A78;
 } 
+
+header {
+    text-align: center ;
+    background-color:#eeeeee;
+    paddint-top: 2px;
+    padding-bottom: 2px;
+    
+}
