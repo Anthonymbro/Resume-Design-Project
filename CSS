@@ -56,3 +56,10 @@ header {
     padding-bottom: 2px;
     
 }
+
+li b {
+  color: #2F5A78;
+}
+li {
+  margin-bottom: 5px;
+} 
